@@ -106,12 +106,16 @@
 
 ## 🏆 Achievements & Certifications
 
-| Certification | Badge | Verification |
-|---|---|---|
-| **AWS Certified Data Engineer – Associate** | [![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws)](https://www.credly.com/badges/30fc1aa6-aa8e-4030-968a-8c2658d77ca8) | [🔗 Verify](https://www.credly.com/badges/30fc1aa6-aa8e-4030-968a-8c2658d77ca8) |
-| **Databricks Certified Data Engineer Associate** | [![Databricks](https://img.shields.io/badge/Databricks-Certified-FF3621?style=flat-square&logo=databricks)](https://credentials.databricks.com/1184acaf-299d-416a-8596-fa1b2ce4aea3) | [🔗 Verify](https://credentials.databricks.com/1184acaf-299d-416a-8596-fa1b2ce4aea3) |
-| **Power BI Data Analyst Associate (PL-300)** | [![Power BI](https://img.shields.io/badge/Power%20BI-Certified-F2C811?style=flat-square&logo=powerbi)](https://learn.microsoft.com/api/credentials/share/en-us/VedavyasChakkirala-3137/604CA51E51C9E179) | [🔗 Verify](https://learn.microsoft.com/api/credentials/share/en-us/VedavyasChakkirala-3137/604CA51E51C9E179) |
-| **Astronomer Certification for Apache Airflow 3 Fundamentals** | [![Airflow](https://img.shields.io/badge/Airflow-Certified-017CEE?style=flat-square&logo=apacheairflow)](https://www.credly.com/badges/0f5ef882-b72b-476d-8da9-4b9af29f73c1) | [🔗 Verify](https://www.credly.com/badges/0f5ef882-b72b-476d-8da9-4b9af29f73c1) |
+[![AWS Certified Data Engineer](https://img.shields.io/badge/AWS-Certified%20Data%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/30fc1aa6-aa8e-4030-968a-8c2658d77ca8)
+
+[![Databricks Data Engineer](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/1184acaf-299d-416a-8596-fa1b2ce4aea3)
+
+[![Power BI Data Analyst](https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/api/credentials/share/en-us/VedavyasChakkirala-3137/604CA51E51C9E179)
+
+[![Astronomer Airflow](https://img.shields.io/badge/Astronomer-Apache%20Airflow%20Fundamentals-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://www.credly.com/badges/0f5ef882-b72b-476d-8da9-4b9af29f73c1)
+
+[![Databricks Spark Developer](https://img.shields.io/badge/Databricks-Spark%203.0%20Developer-FF3621?style=for-the-badge&logo=apachespark&logoColor=white)](#)
+
 
 
 

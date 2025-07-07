@@ -81,7 +81,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedavyas17&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
-## 🏆 Professional Achievements
+## 💼 Professional Experience Highlights
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=F7931E&center=true&vCenter=true&width=800&lines=Processed+2M%2B+daily+EMR+records;Reduced+ETL+runtime+by+62.5%25;Built+real-time+pipelines+handling+1000%2B+orders%2Fmin;Optimized+query+performance+by+70%25;Achieved+99.9%25+data+accuracy" alt="Achievements" />
@@ -103,17 +103,13 @@
 - **Reduced processing costs by 25%** while maintaining 99.9% system uptime
 - **Improved storage efficiency by 3x** with optimized Redshift warehousing
 
-## 🎓 Certifications & Education
+## 🏆 Achievements & Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-Certified%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analyst%20Associate-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</div>
-🎯 **AWS Certified Data Engineer – Associate**  \\
-🏅 **Databricks Certified Data Engineer Associate**  \\
-📊 **Power BI Data Analyst Associate (PL-300)**  \\
-⚡ **Databricks Certified Associate Developer for Apache Spark** 
+- 🎯 **[AWS Certified Data Engineer – Associate](https://www.credly.com/badges/30fc1aa6-aa8e-4030-968a-8c2658d77ca8)**
+- 🏅 **[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/1184acaf-299d-416a-8596-fa1b2ce4aea3)**
+- 📊 **[Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/VedavyasChakkirala-3137/604CA51E51C9E179)**
+- 🚀 **[Astronomer Certification for Apache Airflow 3 Fundamentals](https://www.credly.com/badges/0f5ef882-b72b-476d-8da9-4b9af29f73c1)**
+- ⚡ **Databricks Spark 3.0 Developer Associate** _(validation link coming soon)_
 
 ### 🎓 Education
 - **Master of Science - Data Science** | Indiana University Bloomington (2023-2025) | GPA: 3.8/4.0

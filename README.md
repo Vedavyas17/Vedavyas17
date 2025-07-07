@@ -135,7 +135,6 @@
 [🔗 View Project](https://github.com/Vedavyas17/)
 
 
-
 ## 🎯 Current Focus & Goals
 
 <img align="right" alt="Goals" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -159,6 +158,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
+
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedavyas17&theme=react-dark&hide_border=true&area=true"/>

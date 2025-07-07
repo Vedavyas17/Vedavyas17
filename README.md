@@ -106,20 +106,13 @@
 
 ## 🏆 Achievements & Certifications
 
-<p align="left">
-  <a href="https://www.credly.com/badges/30fc1aa6-aa8e-4030-968a-8c2658d77ca8" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/1b6e10d8-9c3d-4c3c-8b0e-1f7b7d1c5b5e/image.png" alt="AWS Certified Data Engineer – Associate" width="100"/>
-  </a>
-  <a href="https://credentials.databricks.com/1184acaf-299d-416a-8596-fa1b2ce4aea3" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/6e5c6b7b-6c7b-4b7b-bd6c-2c7c3e4c5a5b/image.png" alt="Databricks Certified Data Engineer Associate" width="100"/>
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/VedavyasChakkirala-3137/604CA51E51C9E179" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/af8c6f4c-6c7b-4b7b-bd6c-2c7c3e4c5a5b/image.png" alt="Power BI Data Analyst Associate" width="100"/>
-  </a>
-  <a href="https://www.credly.com/badges/0f5ef882-b72b-476d-8da9-4b9af29f73c1" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/8e5c6b7b-6c7b-4b7b-bd6c-2c7c3e4c5a5b/image.png" alt="Astronomer Certification for Apache Airflow 3 Fundamentals" width="100"/>
-  </a>
-</p>
+| Certification | Badge | Verification |
+|---|---|---|
+| **AWS Certified Data Engineer – Associate** | [![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws)](https://www.credly.com/badges/30fc1aa6-aa8e-4030-968a-8c2658d77ca8) | [🔗 Verify](https://www.credly.com/badges/30fc1aa6-aa8e-4030-968a-8c2658d77ca8) |
+| **Databricks Certified Data Engineer Associate** | [![Databricks](https://img.shields.io/badge/Databricks-Certified-FF3621?style=flat-square&logo=databricks)](https://credentials.databricks.com/1184acaf-299d-416a-8596-fa1b2ce4aea3) | [🔗 Verify](https://credentials.databricks.com/1184acaf-299d-416a-8596-fa1b2ce4aea3) |
+| **Power BI Data Analyst Associate (PL-300)** | [![Power BI](https://img.shields.io/badge/Power%20BI-Certified-F2C811?style=flat-square&logo=powerbi)](https://learn.microsoft.com/api/credentials/share/en-us/VedavyasChakkirala-3137/604CA51E51C9E179) | [🔗 Verify](https://learn.microsoft.com/api/credentials/share/en-us/VedavyasChakkirala-3137/604CA51E51C9E179) |
+| **Astronomer Certification for Apache Airflow 3 Fundamentals** | [![Airflow](https://img.shields.io/badge/Airflow-Certified-017CEE?style=flat-square&logo=apacheairflow)](https://www.credly.com/badges/0f5ef882-b72b-476d-8da9-4b9af29f73c1) | [🔗 Verify](https://www.credly.com/badges/0f5ef882-b72b-476d-8da9-4b9af29f73c1) |
+
 
 
 ### 🎓 Education

@@ -103,21 +103,15 @@
 - **Reduced processing costs by 25%** while maintaining 99.9% system uptime
 - **Improved storage efficiency by 3x** with optimized Redshift warehousing
 
-
 ## 🏆 Achievements & Certifications
 
-[![AWS Certified Data Engineer](https://img.shields.io/badge/AWS-Certified%20Data%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/30fc1aa6-aa8e-4030-968a-8c2658d77ca8)
-
-[![Databricks Data Engineer](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/1184acaf-299d-416a-8596-fa1b2ce4aea3)
-
-[![Power BI Data Analyst](https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/api/credentials/share/en-us/VedavyasChakkirala-3137/604CA51E51C9E179)
-
-[![Astronomer Airflow](https://img.shields.io/badge/Astronomer-Apache%20Airflow%20Fundamentals-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://www.credly.com/badges/0f5ef882-b72b-476d-8da9-4b9af29f73c1)
-
-[![Databricks Spark Developer](https://img.shields.io/badge/Databricks-Spark%203.0%20Developer-FF3621?style=for-the-badge&logo=apachespark&logoColor=white)](#)
-
-
-
+| Certification | Badge |
+|---|---|
+| **AWS Certified Data Engineer – Associate** | [![AWS Certified Data Engineer](https://img.shields.io/badge/AWS-Certified%20Data%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/30fc1aa6-aa8e-4030-968a-8c2658d77ca8) |
+| **Databricks Certified Data Engineer Associate** | [![Databricks Data Engineer](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/1184acaf-299d-416a-8596-fa1b2ce4aea3) |
+| **Power BI Data Analyst Associate (PL-300)** | [![Power BI Data Analyst](https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/api/credentials/share/en-us/VedavyasChakkirala-3137/604CA51E51C9E179) |
+| **Astronomer Certification for Apache Airflow 3 Fundamentals** | [![Astronomer Airflow](https://img.shields.io/badge/Astronomer-Apache%20Airflow%20Fundamentals-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://www.credly.com/badges/0f5ef882-b72b-476d-8da9-4b9af29f73c1) |
+| **Databricks Certified Apache Spark Developer** | [![Databricks Spark Developer](https://img.shields.io/badge/Databricks-Spark%203.0%20Developer-FF3621?style=for-the-badge&logo=apachespark&logoColor=white)](https://drive.google.com/file/d/1laLvlhVBH44HVZFqXaa31s5OFMQ1wSgA/view) |
 
 ### 🎓 Education
 - **Master of Science - Data Science** | Indiana University Bloomington (2023-2025) | GPA: 3.8/4.0

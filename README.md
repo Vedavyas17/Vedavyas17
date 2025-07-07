@@ -110,10 +110,10 @@
   <img src="https://img.shields.io/badge/Databricks-Certified%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Analyst%20Associate-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </div>
-🎯 **AWS Certified Data Engineer – Associate**  
-🏅 **Databricks Certified Data Engineer Associate**  
-📊 **Power BI Data Analyst Associate (PL-300)**  
-⚡ **Databricks Certified Associate Developer for Apache Spark**
+🎯 **AWS Certified Data Engineer – Associate**  \\
+🏅 **Databricks Certified Data Engineer Associate**  \\
+📊 **Power BI Data Analyst Associate (PL-300)**  \\
+⚡ **Databricks Certified Associate Developer for Apache Spark** 
 
 ### 🎓 Education
 - **Master of Science - Data Science** | Indiana University Bloomington (2023-2025) | GPA: 3.8/4.0
@@ -181,11 +181,6 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">

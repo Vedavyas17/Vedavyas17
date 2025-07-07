@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 Currently working as **Data Engineer at Indiana University School of Public Health**
 - 🏥 Building **HIPAA-compliant healthcare RCM platforms** processing 2M+ daily EMR records
@@ -28,7 +28,7 @@
 - 💡 Always learning new technologies in the **modern data stack**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedavyas&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedavyas17&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🛠️ Tech Stack & Expertise
